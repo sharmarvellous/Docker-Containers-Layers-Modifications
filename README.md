@@ -2,8 +2,6 @@
 
 Docker’s ability to efficiently build, reuse, and layer images plays a crucial role in modern software development. In this guide, we’ll walk through the concept of Docker image layers, container execution, and the temporary nature of changes within containers. The process showcased here uses Dockerfiles to build images, run containers, and modify file systems inside running containers — all while demonstrating how Docker handles changes and user management inside containers.
 
-[Checkout the GitHub Repo](https://github.com/sharmarvellous/testing)
-
 ---
 
 ## Step 1: Understanding the Dockerfile Creation Process
